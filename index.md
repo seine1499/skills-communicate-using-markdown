@@ -4,3 +4,5 @@
 #### これはH4の見出し
 ##### これはH5の見出し
 ###### これはH6の見出し（最小）
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
